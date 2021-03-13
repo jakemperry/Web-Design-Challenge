@@ -1,3 +1,15 @@
-h2 {
-    color:blue;
+.tempBG {
+    background-color: #ffcccc;
+}
+
+.humidityBG {
+    background-color: #cce5cc;
+}
+
+.windBG {
+    background-color: #ffffcc;
+}
+
+.cloudsBG {
+    background-color: #ccccff;
 }
