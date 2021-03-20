@@ -13,3 +13,11 @@
 .cloudsBG {
     background-color: #ccccff;
 }
+
+@media(max-width:992) {
+
+    ul {
+        display: none;
+    }
+
+} 
